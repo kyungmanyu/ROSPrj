@@ -1,0 +1,8 @@
+prefix=/home/kyungman/catkin_ws/install
+
+Name: subs_ros_pack
+Description: Description of subs_ros_pack
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/kyungman/catkin_ws/install/lib 
+Requires: 

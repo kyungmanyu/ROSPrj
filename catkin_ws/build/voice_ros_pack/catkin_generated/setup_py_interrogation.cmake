@@ -1,0 +1,6 @@
+set(voice_ros_pack_SETUP_PY_VERSION "0.0.0")
+set(voice_ros_pack_SETUP_PY_SCRIPTS "")
+set(voice_ros_pack_SETUP_PY_PACKAGES "voice_ros_pack")
+set(voice_ros_pack_SETUP_PY_PACKAGE_DIRS "src/voice_ros_pack")
+set(voice_ros_pack_SETUP_PY_MODULES "")
+set(voice_ros_pack_SETUP_PY_MODULE_DIRS "")

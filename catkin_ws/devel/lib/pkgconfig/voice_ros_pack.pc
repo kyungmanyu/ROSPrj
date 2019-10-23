@@ -1,0 +1,8 @@
+prefix=/home/kyungman/catkin_ws/devel
+
+Name: voice_ros_pack
+Description: Description of voice_ros_pack
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/kyungman/catkin_ws/devel/lib 
+Requires: 

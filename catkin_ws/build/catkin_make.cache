@@ -1,0 +1,2 @@
+beginner_tutorials:my_first_ros_pkg:state_manager_pack:state_mgr_pack:subs_ros_pack:subs_voicespeak_pack:test_publish_pack:voice_ros_pack
+-DCATKIN_DEVEL_PREFIX=/home/kyungman/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/kyungman/catkin_ws/install -G Unix Makefiles
